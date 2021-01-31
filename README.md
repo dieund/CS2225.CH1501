@@ -4,6 +4,9 @@ Nhóm đã xác định được vùng chứa số CMND trên ảnh CMND với �
 
 Thực hiện bởi [Nguyễn Duy Diệu](https://github.com/dieund/CS2225.CH1501) và [Nguyễn Văn Phong](https://github.com/dieund/CS2225.CH1501)
 
+ ##  Chi tiết Google Colab.
+ [NhanDienCMND.ipynb](https://github.com/dieund/CS2225.CH1501/blob/master/NhanDienCMND.ipynb)
+
 ## Kết quả đạt được
 
 - Đầu vào (Hình ảnh cmnd):
@@ -177,5 +180,3 @@ else:
   print('Khong co trong danh sach')
  ```
  
- ##  Chi tiết Google Colab
- [NhanDienCMND.ipynb](https://github.com/dieund/CS2225.CH1501/blob/master/NhanDienCMND.ipynb)
