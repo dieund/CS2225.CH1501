@@ -1,6 +1,6 @@
 # Tên đề tài: Xác định số CMND trên giấy chứng minh nhân dân
-Nhóm đã xác định được vùng ID trên ảnh CMND với độ chính xác 100%, và nhận diện đúng số CMND chính xác 90% trên 20 ảnh CMND của 20 nhân viên trong công ty
 
+Nhóm đã xác định được vùng chứa số CMND trên ảnh CMND với độ chính xác 100% (Điều kiện thử nhiệm là CMND được để trên nền trắng và ánh sáng có thể nhìn rõ được CMND), và nhận diện đúng số CMND chính xác 90% trên 30 ảnh CMND của 30 nhân viên trong công ty
 
 Thực hiện bởi [Nguyễn Duy Diệu](https://github.com/dieund/CS2225.CH1501) và [Nguyễn Văn Phong](https://github.com/dieund/CS2225.CH1501)
 
